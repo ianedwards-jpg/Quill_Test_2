@@ -17,6 +17,7 @@ class RichTextEditor extends Component {
                 ['bold', 'italic', 'underline'],
                 [{ 'list': 'ordered' }, { 'list': 'bullet' }],
                 [{ 'align': [] }],
+                [{ 'popover-toolbar': [] }],
                 [{ 'color': [] }, { 'background': [] }],
                 ['clean']
             ]
